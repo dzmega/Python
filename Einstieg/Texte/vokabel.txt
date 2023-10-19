@@ -1,0 +1,10 @@
+Angestellter;employee 
+Arbeiter;worker 
+Arbeitgeber;employer 
+Beruf;job 
+Beschaeftigung;occupation
+Pendler;commuter 
+Azubi;apprentice 
+Bewerbung;application 
+Arbeitslosigkeit;unemployment 
+Gehalt;salary 

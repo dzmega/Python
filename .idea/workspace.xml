@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d931cc30-ecef-46cd-842e-dc5d68a879ec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VKpax6F674OpSJPivz1PUUvfqx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dzygm/OneDrive/Desktop/Schule/Python/test/main.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dzygm\OneDrive\Desktop\Schule\Python\test" />
+      <recent name="C:\Users\dzygm\OneDrive\Desktop\Schule\Python\Einstieg\Texte" />
+      <recent name="C:\Users\dzygm\OneDrive\Desktop\Schule\Python\Einstieg" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d931cc30-ecef-46cd-842e-dc5d68a879ec" name="Changes" comment="" />
+      <created>1694594694663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694594694663</updated>
+      <workItem from="1694594700404" duration="77000" />
+      <workItem from="1694594872026" duration="1159000" />
+      <workItem from="1694682427790" duration="427000" />
+      <workItem from="1694683094696" duration="2332000" />
+      <workItem from="1695017345756" duration="2869000" />
+      <workItem from="1695020249052" duration="308000" />
+      <workItem from="1695020573927" duration="1609000" />
+      <workItem from="1695189917999" duration="7346000" />
+      <workItem from="1695206938671" duration="157000" />
+      <workItem from="1695213866713" duration="358000" />
+      <workItem from="1695296065511" duration="4611000" />
+      <workItem from="1695622582195" duration="5547000" />
+      <workItem from="1695743099865" duration="124000" />
+      <workItem from="1695796442782" duration="2873000" />
+      <workItem from="1695900878258" duration="4461000" />
+      <workItem from="1696226579370" duration="7440000" />
+      <workItem from="1696397544321" duration="220000" />
+      <workItem from="1696399441843" duration="3086000" />
+      <workItem from="1696505724870" duration="1474000" />
+      <workItem from="1696507222522" duration="185000" />
+      <workItem from="1696507437572" duration="152000" />
+      <workItem from="1696507693976" duration="210000" />
+      <workItem from="1696508152586" duration="541000" />
+      <workItem from="1696509024561" duration="1447000" />
+      <workItem from="1697110687754" duration="672000" />
+      <workItem from="1697112768850" duration="1688000" />
+      <workItem from="1697440213441" duration="700000" />
+      <workItem from="1697443500280" duration="9000" />
+      <workItem from="1697609632568" duration="3568000" />
+      <workItem from="1697706045479" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$längenfunktion.coverage" NAME="längenfunktion Coverage Results" MODIFIED="1695021019121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$vokabel.coverage" NAME="vokabel Coverage Results" MODIFIED="1696228982298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$kundenbestellung.coverage" NAME="kundenbestellung Coverage Results" MODIFIED="1696233897988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$kw_und_ps.coverage" NAME="kw und ps Coverage Results" MODIFIED="1695018182398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$bmi.coverage" NAME="bmi Coverage Results" MODIFIED="1695022029799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1697613150747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python$lösungswort.coverage" NAME="lösungswort Coverage Results" MODIFIED="1695021006619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1694685171652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$digitaleZahlen.coverage" NAME="digitaleZahlen Coverage Results" MODIFIED="1695197534319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$würfel.coverage" NAME="würfel Coverage Results" MODIFIED="1695796886584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$bibliothek.coverage" NAME="bibliothek Coverage Results" MODIFIED="1695796571250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$prüfungsaufgabe.coverage" NAME="prüfungsaufgabe Coverage Results" MODIFIED="1695743175884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$sucheArray.coverage" NAME="sucheArray Coverage Results" MODIFIED="1695194663495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$Weinversand.coverage" NAME="Weinversand Coverage Results" MODIFIED="1696401578654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FPA" />
+    <SUITE FILE_PATH="coverage/Python$prüfungsaufgabe2.coverage" NAME="prüfungsaufgabe2 Coverage Results" MODIFIED="1695743187620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$fakultät.coverage" NAME="fakultät Coverage Results" MODIFIED="1695191627694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$gruppe.coverage" NAME="gruppe Coverage Results" MODIFIED="1696226977144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$gleichnung.coverage" NAME="gleichnung Coverage Results" MODIFIED="1695192738626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$palindrom.coverage" NAME="palindrom Coverage Results" MODIFIED="1695192180834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$dictonary.coverage" NAME="dictonary Coverage Results" MODIFIED="1695800297233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$aufgabe_2.coverage" NAME="aufgabe 2 Coverage Results" MODIFIED="1695019940556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$uhrzeitrechner.coverage" NAME="uhrzeitrechner Coverage Results" MODIFIED="1695019325955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$lesen.coverage" NAME="lesen Coverage Results" MODIFIED="1696226671216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$übung.coverage" NAME="übung Coverage Results" MODIFIED="1696397745500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+    <SUITE FILE_PATH="coverage/Python$primzahl.coverage" NAME="primzahl Coverage Results" MODIFIED="1695625232175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einstieg" />
+  </component>
+</project>
