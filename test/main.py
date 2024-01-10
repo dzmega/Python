@@ -1,6 +1,3 @@
-def checkString(s):
-    print("test")
-
 stream = open("C:/Users/dzygm/OneDrive/Desktop/Schule/Python/test/blacklist.txt")
 list = stream.readlines()
 eingabe = input("eingabe: ")
