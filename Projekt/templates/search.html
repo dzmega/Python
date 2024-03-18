@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingredient Form</title>
+    <link rel="stylesheet" href="../static/css/search.css">
+</head>
+<body>
+    <h1>Search By Ingredients</h1>
+    <form action="/search" method="post">
+        <label for="ingredient">Ingredient:</label>
+        <a href="/" class="home-button">Home</a>
+        <input type="text" id="ingredient" name="ingredient" placeholder="Ingredient name">
+        <button type="button" id="addIngredientBtn">Add Ingredient</button>
+        <ul id="ingredientList">
+        </ul>
+        <input type="submit" value="Check">
+    </form>
+
+    {% if recipes %}
+    <h2>Recipes</h2>
+    <ul>
+        {% for recipe in recipes %}
+        <li onclick="window.location='{{ url_for('view_recipe', recipe_id=recipe.id, search_query=search_query) }}';">
+            <h3 class="recipe-title">{{ recipe.title }}</h3>
+            {% if recipe.image %}
+            <img src="{{ recipe.image }}" alt="{{ recipe.title }}">
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No recipes found.</p>
+    {% endif %}
+
+    <script>
+        //prüfen ob button gedrückt wurde
+        document.getElementById('addIngredientBtn').addEventListener('click', function() {
+            addIngredient();
+        });
+
+        var counter = 0;
+
+        //hinzufügen von neuen zutaten zur liste
+        function addIngredient() {
+            var ingredientInput = document.getElementById('ingredient');
+            var ingredientList = document.getElementById('ingredientList');
+            var newIngredient = document.createElement('li');
+            var inputName = 'ingredient_' + counter;
+            newIngredient.innerHTML = '<input type="text" name="' + inputName + '" value="' + ingredientInput.value + '"> <button type="button" onclick="removeIngredient(this)">Remove</button>';
+            ingredientList.appendChild(newIngredient);
+            ingredientInput.value = '';
+            counter++;
+        }
+
+        //bestimmte zutaten löschen
+        function removeIngredient(button) {
+            var listItem = button.parentNode;
+            listItem.parentNode.removeChild(listItem);
+        }
+    </script>
+</body>
+</html>
